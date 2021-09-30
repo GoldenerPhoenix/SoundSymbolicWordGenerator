@@ -1,3 +1,5 @@
+# Sound ymbolic word generation model
+
 This is the repository containing all the source code used for the project of my master's thesis.
 
 Feel free to try it out yourself.
